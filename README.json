@@ -1,0 +1,4905 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Backend / BaaS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tRPC",
+          "description": "End-to-end typesafe APIs without schemas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T19:08:32Z",
+            "owner": "trpc",
+            "repo": "trpc",
+            "stars": 40516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgREST",
+          "description": "Instantly turns PostgreSQL into a REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T22:52:45Z",
+            "owner": "PostgREST",
+            "repo": "postgrest",
+            "stars": 27595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphQL Yoga",
+          "description": "Modern, lightweight GraphQL server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:32:51Z",
+            "owner": "graphql-hive",
+            "repo": "graphql-yoga",
+            "stars": 8531
+          }
+        }
+      ],
+      "title": "API & GraphQL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keycloak",
+          "description": "Full-featured open source IAM solution (SSO, OAuth2, OIDC, SAML) backed by Red Hat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:39:20Z",
+            "owner": "keycloak",
+            "repo": "keycloak",
+            "stars": 36150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authelia",
+          "description": "Self-hosted multi-factor authentication solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:05:32Z",
+            "owner": "authelia",
+            "repo": "authelia",
+            "stars": 28547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory Kratos",
+          "description": "Security-focused authentication system with a fully open source core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:30:37Z",
+            "owner": "ory",
+            "repo": "kratos",
+            "stars": 13828
+          }
+        }
+      ],
+      "title": "Authentication & Identity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Supabase",
+          "description": "Open source Firebase alternative built on PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:19:06Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PocketBase",
+          "description": "Embedded backend with SQLite, auth, and REST API, fully open source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T10:03:19Z",
+            "owner": "pocketbase",
+            "repo": "pocketbase",
+            "stars": 60638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parse Server",
+          "description": "Mature open source backend with no critical closed features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T03:08:14Z",
+            "owner": "parse-community",
+            "repo": "parse-server",
+            "stars": 21411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnDB",
+          "description": "Self-hosted no-code database and BaaS (SQLite-based, Airtable-like).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-13T06:36:16Z",
+            "owner": "undb-io",
+            "repo": "undb",
+            "stars": 2971
+          }
+        }
+      ],
+      "title": "Backend as a Service"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hono",
+          "description": "Ultrafast framework for modern runtimes (Edge, Bun, Deno, Node).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:11:07Z",
+            "owner": "honojs",
+            "repo": "hono",
+            "stars": 31653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdonisJS",
+          "description": "Modern Node.js framework with a TypeScript-first approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T07:20:23Z",
+            "owner": "adonisjs",
+            "repo": "core",
+            "stars": 19079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elysia",
+          "description": "High-performance Bun-first framework with strong typing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:57:50Z",
+            "owner": "elysiajs",
+            "repo": "elysia",
+            "stars": 18887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasp",
+          "description": "Declarative full-stack framework that generates backend automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:27:44Z",
+            "owner": "wasp-lang",
+            "repo": "wasp",
+            "stars": 18677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FeathersJS",
+          "description": "Flexible framework for REST and real-time applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T01:53:55Z",
+            "owner": "feathersjs",
+            "repo": "feathers",
+            "stars": 15260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Midway",
+          "description": "Node.js framework with dependency injection inspired by Spring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:14:14Z",
+            "owner": "midwayjs",
+            "repo": "midway",
+            "stars": 7738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moleculer",
+          "description": "Fast and powerful microservices framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-22T10:25:33Z",
+            "owner": "moleculerjs",
+            "repo": "moleculer",
+            "stars": 6378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoopBack",
+          "description": "Advanced API framework based on OpenAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:06:26Z",
+            "owner": "loopbackio",
+            "repo": "loopback-next",
+            "stars": 5106
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CLI Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lazygit",
+          "description": "Simple terminal UI for Git operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:28:18Z",
+            "owner": "jesseduffield",
+            "repo": "lazygit",
+            "stars": 81276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ripgrep",
+          "description": "Extremely fast recursive search tool respecting .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T13:59:44Z",
+            "owner": "BurntSushi",
+            "repo": "ripgrep",
+            "stars": 67267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bat",
+          "description": "clone with syntax highlighting and Git integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:39:20Z",
+            "owner": "sharkdp",
+            "repo": "bat",
+            "stars": 60220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazydocker",
+          "description": "Terminal UI for Docker and container management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-19T02:51:06Z",
+            "owner": "jesseduffield",
+            "repo": "lazydocker",
+            "stars": 52448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fd",
+          "description": "Simple, fast, and user-friendly alternative to .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T17:42:55Z",
+            "owner": "sharkdp",
+            "repo": "fd",
+            "stars": 44058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpie",
+          "description": "Human-friendly command-line HTTP client for APIs and web services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T17:30:35Z",
+            "owner": "httpie",
+            "repo": "cli",
+            "stars": 38416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jq",
+          "description": "Lightweight and flexible JSON processor for the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:02:39Z",
+            "owner": "jqlang",
+            "repo": "jq",
+            "stars": 35441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delta",
+          "description": "Syntax-highlighting pager for Git and diff outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T00:01:16Z",
+            "owner": "dandavison",
+            "repo": "delta",
+            "stars": 31728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperfine",
+          "description": "Command-line benchmarking tool with statistical analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-30T08:23:25Z",
+            "owner": "sharkdp",
+            "repo": "hyperfine",
+            "stars": 28650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yq",
+          "description": "Portable YAML, JSON, XML, and TOML processor inspired by jq.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T03:55:00Z",
+            "owner": "mikefarah",
+            "repo": "yq",
+            "stars": 15820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xh",
+          "description": "Friendly and fast HTTP client designed as an alternative to HTTPie.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T14:01:17Z",
+            "owner": "ducaale",
+            "repo": "xh",
+            "stars": 8014
+          }
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "General-purpose fuzzy finder for the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yazi",
+          "description": "Blazing fast terminal file manager written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T14:27:16Z",
+            "owner": "sxyazi",
+            "repo": "yazi",
+            "stars": 41282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zoxide",
+          "description": "Smarter command inspired by z and powered by frecency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:53:37Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 38628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nnn",
+          "description": "Lightweight and extremely fast terminal file browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T20:37:04Z",
+            "owner": "jarun",
+            "repo": "nnn",
+            "stars": 21781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ranger",
+          "description": "Console file manager with Vim-style keybindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T11:03:32Z",
+            "owner": "ranger",
+            "repo": "ranger",
+            "stars": 17337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "broot",
+          "description": "Interactive directory tree navigator with fuzzy search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:36:58Z",
+            "owner": "Canop",
+            "repo": "broot",
+            "stars": 12889
+          }
+        }
+      ],
+      "title": "File Management & Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deno",
+          "description": "Secure JavaScript and TypeScript runtime built with Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:33:25Z",
+            "owner": "denoland",
+            "repo": "deno",
+            "stars": 108250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bun",
+          "description": "Fast JavaScript runtime, package manager, and bundler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:25:27Z",
+            "owner": "oven-sh",
+            "repo": "bun",
+            "stars": 95397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homebrew",
+          "description": "Popular package manager for macOS and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T16:44:55Z",
+            "owner": "Homebrew",
+            "repo": "brew",
+            "stars": 49139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pnpm",
+          "description": "Fast and disk space-efficient package manager for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:26:08Z",
+            "owner": "pnpm",
+            "repo": "pnpm",
+            "stars": 36045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asdf",
+          "description": "Extendable version manager supporting multiple runtimes and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T01:47:40Z",
+            "owner": "asdf-vm",
+            "repo": "asdf",
+            "stars": 25519
+          }
+        }
+      ],
+      "title": "Package Managers & Runtimes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "atuin",
+          "description": "Shell history sync and search engine with encrypted storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:56:34Z",
+            "owner": "atuinsh",
+            "repo": "atuin",
+            "stars": 31132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glow",
+          "description": "Render Markdown files beautifully in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:56:16Z",
+            "owner": "charmbracelet",
+            "repo": "glow",
+            "stars": 26851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gum",
+          "description": "Tool for building glamorous shell scripts and terminal workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:41:12Z",
+            "owner": "charmbracelet",
+            "repo": "gum",
+            "stars": 24217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wtfutil",
+          "description": "Personal terminal dashboard for displaying developer information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T23:33:13Z",
+            "owner": "wtfutil",
+            "repo": "wtf",
+            "stars": 17052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taskwarrior",
+          "description": "Powerful CLI task management and productivity tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:32:52Z",
+            "owner": "GothenburgBitFactory",
+            "repo": "taskwarrior",
+            "stars": 6005
+          }
+        }
+      ],
+      "title": "Productivity & Workflow"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Warp",
+          "description": "Rust-based modern terminal with AI and collaborative features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:19:33Z",
+            "owner": "warpdotdev",
+            "repo": "warp",
+            "stars": 64175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux",
+          "description": "Terminal multiplexer for managing persistent sessions and panes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:26:59Z",
+            "owner": "tmux",
+            "repo": "tmux",
+            "stars": 48582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nushell",
+          "description": "Modern shell built around structured data instead of plain text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T17:21:03Z",
+            "owner": "nushell",
+            "repo": "nushell",
+            "stars": 40251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zellij",
+          "description": "Terminal workspace and multiplexer focused on usability and extensibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T10:26:33Z",
+            "owner": "zellij-org",
+            "repo": "zellij",
+            "stars": 34864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fish Shell",
+          "description": "User-friendly smart shell with autosuggestions and modern defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T17:00:07Z",
+            "owner": "fish-shell",
+            "repo": "fish-shell",
+            "stars": 34012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WezTerm",
+          "description": "GPU-accelerated cross-platform terminal emulator written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:01:57Z",
+            "owner": "wezterm",
+            "repo": "wezterm",
+            "stars": 28326
+          }
+        }
+      ],
+      "title": "Shells & Terminal Environments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "btop",
+          "description": "Modern and visually rich resource monitor for Linux, macOS, and BSD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T19:49:45Z",
+            "owner": "aristocratos",
+            "repo": "btop",
+            "stars": 33959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bottom",
+          "description": "Cross-platform graphical process and system monitor inspired by htop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:40:43Z",
+            "owner": "ClementTsang",
+            "repo": "bottom",
+            "stars": 13881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dust",
+          "description": "More intuitive replacement for written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T22:55:41Z",
+            "owner": "bootandy",
+            "repo": "dust",
+            "stars": 12113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htop",
+          "description": "Interactive process viewer and system monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T17:41:31Z",
+            "owner": "htop-dev",
+            "repo": "htop",
+            "stars": 8243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "procs",
+          "description": "Modern replacement for with colored and structured output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T20:07:54Z",
+            "owner": "dalance",
+            "repo": "procs",
+            "stars": 6131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dua",
+          "description": "Fast disk usage analyzer with an interactive terminal UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T02:53:12Z",
+            "owner": "Byron",
+            "repo": "dua-cli",
+            "stars": 6123
+          }
+        }
+      ],
+      "title": "System Monitoring & Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "etcd",
+          "description": "Distributed key-value store used for Kubernetes coordination and service discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T08:43:53Z",
+            "owner": "etcd-io",
+            "repo": "etcd",
+            "stars": 52118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragonfly",
+          "description": "Modern in-memory datastore compatible with Redis and Memcached APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:52:13Z",
+            "owner": "dragonflydb",
+            "repo": "dragonfly",
+            "stars": 30994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valkey",
+          "description": "Community-driven Redis fork focused on fully open-source development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:46:29Z",
+            "owner": "valkey-io",
+            "repo": "valkey",
+            "stars": 26873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Ignite",
+          "description": "Distributed in-memory database and caching platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:13:52Z",
+            "owner": "apache",
+            "repo": "ignite",
+            "stars": 5076
+          }
+        }
+      ],
+      "title": "Key-Value & Cache Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RethinkDB",
+          "description": "Real-time distributed database with changefeed support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-28T06:10:59Z",
+            "owner": "rethinkdb",
+            "repo": "rethinkdb",
+            "stars": 26997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArangoDB",
+          "description": "Multi-model database supporting graph, document, and key-value data models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:01:51Z",
+            "owner": "arangodb",
+            "repo": "arangodb",
+            "stars": 14260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FerretDB",
+          "description": "Open-source MongoDB alternative built on PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-05T07:31:28Z",
+            "owner": "FerretDB",
+            "repo": "FerretDB",
+            "stars": 11041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cassandra",
+          "description": "Highly scalable wide-column database built for high availability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T14:11:47Z",
+            "owner": "apache",
+            "repo": "cassandra",
+            "stars": 10066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CouchDB",
+          "description": "Distributed JSON document database with replication and offline-first capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-08-12T14:54:47Z",
+            "owner": "apache",
+            "repo": "couchdb",
+            "stars": 6936
+          }
+        }
+      ],
+      "title": "NoSQL Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ClickHouse",
+          "description": "High-performance column-oriented database for analytics and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:18:09Z",
+            "owner": "ClickHouse",
+            "repo": "ClickHouse",
+            "stars": 49205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TiDB",
+          "description": "Distributed MySQL-compatible database designed for HTAP and cloud-native workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:58:49Z",
+            "owner": "pingcap",
+            "repo": "tidb",
+            "stars": 40425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckDB",
+          "description": "In-process analytical database designed for fast OLAP workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:59:47Z",
+            "owner": "duckdb",
+            "repo": "duckdb",
+            "stars": 40199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CockroachDB",
+          "description": "Distributed SQL database focused on scalability and fault tolerance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T17:28:36Z",
+            "owner": "cockroachdb",
+            "repo": "cockroach",
+            "stars": 32384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgreSQL",
+          "description": "Advanced open-source relational database known for reliability, extensibility, and SQL compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T17:17:51Z",
+            "owner": "postgres",
+            "repo": "postgres",
+            "stars": 21779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibSQL",
+          "description": "Open-source fork of SQLite focused on distributed and embedded workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T20:50:50Z",
+            "owner": "tursodatabase",
+            "repo": "libsql",
+            "stars": 17127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoundationDB",
+          "description": "Distributed transactional key-value database designed for strong consistency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:57:05Z",
+            "owner": "apple",
+            "repo": "foundationdb",
+            "stars": 16600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YugabyteDB",
+          "description": "High-performance distributed PostgreSQL-compatible database for scalable applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T04:15:00Z",
+            "owner": "yugabyte",
+            "repo": "yugabyte-db",
+            "stars": 10466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLite",
+          "description": "Lightweight embedded relational database widely used in applications and mobile devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T00:30:18Z",
+            "owner": "sqlite",
+            "repo": "sqlite",
+            "stars": 10247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RisingWave",
+          "description": "Distributed SQL streaming database compatible with PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:49:57Z",
+            "owner": "risingwavelabs",
+            "repo": "risingwave",
+            "stars": 9254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MariaDB",
+          "description": "Community-driven relational database forked from MySQL with strong open-source governance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:11:23Z",
+            "owner": "MariaDB",
+            "repo": "server",
+            "stars": 8089
+          }
+        }
+      ],
+      "title": "Relational Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Meilisearch",
+          "description": "Fast and developer-friendly search engine with typo tolerance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T08:31:27Z",
+            "owner": "meilisearch",
+            "repo": "meilisearch",
+            "stars": 58950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typesense",
+          "description": "Open-source instant search engine focused on simplicity and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T17:16:40Z",
+            "owner": "typesense",
+            "repo": "typesense",
+            "stars": 26431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic",
+          "description": "Lightweight and schema-less search backend optimized for speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T14:04:16Z",
+            "owner": "valeriansaliou",
+            "repo": "sonic",
+            "stars": 21310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSearch",
+          "description": "Community-driven search and analytics engine forked from Elasticsearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T22:39:43Z",
+            "owner": "opensearch-project",
+            "repo": "OpenSearch",
+            "stars": 13509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manticore Search",
+          "description": "Full-text search engine designed for high-performance indexing and querying.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:13:59Z",
+            "owner": "manticoresoftware",
+            "repo": "manticoresearch",
+            "stars": 11937
+          }
+        }
+      ],
+      "title": "Search & Analytics Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TDengine",
+          "description": "Time-series platform designed for IoT, industrial, and monitoring data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:14:31Z",
+            "owner": "taosdata",
+            "repo": "TDengine",
+            "stars": 25056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuestDB",
+          "description": "High-performance time-series database focused on fast SQL analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T22:36:47Z",
+            "owner": "questdb",
+            "repo": "questdb",
+            "stars": 17253
+          }
+        }
+      ],
+      "title": "Time-Series Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Milvus",
+          "description": "Scalable vector database built for machine learning embeddings and AI workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:05:45Z",
+            "owner": "milvus-io",
+            "repo": "milvus",
+            "stars": 45619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qdrant",
+          "description": "Vector similarity search engine for AI and semantic search applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:46:11Z",
+            "owner": "qdrant",
+            "repo": "qdrant",
+            "stars": 33946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SurrealDB",
+          "description": "Multi-model database combining document, graph, and relational features with vector support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-06T15:57:27Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb",
+            "stars": 32882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chroma",
+          "description": "Lightweight embedding database designed for LLM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:03:05Z",
+            "owner": "chroma-core",
+            "repo": "chroma",
+            "stars": 29043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weaviate",
+          "description": "Open-source vector search engine with GraphQL and AI-native capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:38:32Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LanceDB",
+          "description": "Embedded vector database optimized for AI applications and local-first workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:23:49Z",
+            "owner": "lancedb",
+            "repo": "lancedb",
+            "stars": 11140
+          }
+        }
+      ],
+      "title": "Vector Databases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DevOps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Podman",
+          "description": "Daemonless container engine focused on security and OCI compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:55:41Z",
+            "owner": "podman-container-tools",
+            "repo": "podman",
+            "stars": 32547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "containerd",
+          "description": "High-performance container runtime used by Kubernetes and Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:56:55Z",
+            "owner": "containerd",
+            "repo": "containerd",
+            "stars": 21112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incus",
+          "description": "Modern community-driven container and virtual machine manager forked from LXD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:22:23Z",
+            "owner": "lxc",
+            "repo": "incus",
+            "stars": 5927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CRI-O",
+          "description": "Kubernetes-native container runtime implementing the CRI standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:20:43Z",
+            "owner": "cri-o",
+            "repo": "cri-o",
+            "stars": 5652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LXC",
+          "description": "Lightweight Linux container runtime with low-level system container support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-23T12:48:58Z",
+            "owner": "lxc",
+            "repo": "lxc",
+            "stars": 5239
+          }
+        }
+      ],
+      "title": "Containers & Virtualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubernetes",
+          "description": "The leading open-source container orchestration platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:38:12Z",
+            "owner": "kubernetes",
+            "repo": "kubernetes",
+            "stars": 124473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k3s",
+          "description": "Lightweight Kubernetes distribution optimized for edge and IoT workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:31:50Z",
+            "owner": "k3s-io",
+            "repo": "k3s",
+            "stars": 33728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helm",
+          "description": "Package manager for Kubernetes applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:59:23Z",
+            "owner": "helm",
+            "repo": "helm",
+            "stars": 30153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rancher",
+          "description": "Kubernetes management platform for multi-cluster operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:12:22Z",
+            "owner": "rancher",
+            "repo": "rancher",
+            "stars": 25847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo CD",
+          "description": "Declarative GitOps continuous delivery tool for Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:22:01Z",
+            "owner": "argoproj",
+            "repo": "argo-cd",
+            "stars": 23909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flux",
+          "description": "GitOps toolkit for keeping Kubernetes clusters in sync with Git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T02:21:32Z",
+            "owner": "fluxcd",
+            "repo": "flux2",
+            "stars": 8328
+          }
+        }
+      ],
+      "title": "Kubernetes & Orchestration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jenkins",
+          "description": "Extensible automation server for CI/CD pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T19:13:12Z",
+            "owner": "jenkinsci",
+            "repo": "jenkins",
+            "stars": 26452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tekton",
+          "description": "Kubernetes-native framework for creating CI/CD systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:20:13Z",
+            "owner": "tektoncd",
+            "repo": "pipeline",
+            "stars": 9034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concourse",
+          "description": "Container-based continuous integration system with declarative pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:49:29Z",
+            "owner": "concourse",
+            "repo": "concourse",
+            "stars": 7886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Woodpecker CI",
+          "description": "Lightweight and fully open-source CI/CD system inspired by Drone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:16:23Z",
+            "owner": "woodpecker-ci",
+            "repo": "woodpecker",
+            "stars": 7672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoCD",
+          "description": "Open-source continuous delivery server focused on complex workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T19:12:38Z",
+            "owner": "gocd",
+            "repo": "gocd",
+            "stars": 7421
+          }
+        }
+      ],
+      "title": "CI / CD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ansible",
+          "description": "Agentless automation tool for configuration management and provisioning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:53:38Z",
+            "owner": "ansible",
+            "repo": "ansible",
+            "stars": 70343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTofu",
+          "description": "Community-driven infrastructure as code tool forked from Terraform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:34:32Z",
+            "owner": "opentofu",
+            "repo": "opentofu",
+            "stars": 29772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulumi",
+          "description": "Infrastructure as code platform using familiar programming languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:04:07Z",
+            "owner": "pulumi",
+            "repo": "pulumi",
+            "stars": 25563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crossplane",
+          "description": "Kubernetes-based control plane framework for cloud infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T16:45:04Z",
+            "owner": "crossplane",
+            "repo": "crossplane",
+            "stars": 11929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atlantis",
+          "description": "GitOps workflow automation for Terraform and OpenTofu projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:08:54Z",
+            "owner": "runatlantis",
+            "repo": "atlantis",
+            "stars": 9232
+          }
+        }
+      ],
+      "title": "Infrastructure as Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": "Monitoring and alerting toolkit designed for reliability and scalability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:47:39Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 65723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jaeger",
+          "description": "Distributed tracing platform for monitoring microservices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:46:44Z",
+            "owner": "jaegertracing",
+            "repo": "jaeger",
+            "stars": 23097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VictoriaMetrics",
+          "description": "High-performance time-series database and monitoring stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:28:01Z",
+            "owner": "VictoriaMetrics",
+            "repo": "VictoriaMetrics",
+            "stars": 17521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTelemetry",
+          "description": "Open standard and tooling for telemetry data collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:14:46Z",
+            "owner": "open-telemetry",
+            "repo": "opentelemetry-collector",
+            "stars": 7383
+          }
+        }
+      ],
+      "title": "Monitoring & Observability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Caddy",
+          "description": "Web server with automatic HTTPS and simple configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T05:20:15Z",
+            "owner": "caddyserver",
+            "repo": "caddy",
+            "stars": 74899
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traefik",
+          "description": "Modern reverse proxy and ingress controller with automatic service discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:40:06Z",
+            "owner": "traefik",
+            "repo": "traefik",
+            "stars": 64441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nginx",
+          "description": "High-performance web server and reverse proxy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T19:39:54Z",
+            "owner": "nginx",
+            "repo": "nginx",
+            "stars": 31401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoreDNS",
+          "description": "Flexible and extensible DNS server commonly used in Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:42:25Z",
+            "owner": "coredns",
+            "repo": "coredns",
+            "stars": 14241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAProxy",
+          "description": "Reliable high-availability load balancer and proxy server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:26:43Z",
+            "owner": "haproxy",
+            "repo": "haproxy",
+            "stars": 6774
+          }
+        }
+      ],
+      "title": "Networking & Reverse Proxy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trivy",
+          "description": "Security scanner for containers, dependencies, Kubernetes, and IaC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:41:50Z",
+            "owner": "aquasecurity",
+            "repo": "trivy",
+            "stars": 37379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infisical",
+          "description": "Open-source secrets management platform for teams and infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:23:55Z",
+            "owner": "Infisical",
+            "repo": "infisical",
+            "stars": 28730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Falco",
+          "description": "Runtime security monitoring for containers and Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T07:39:35Z",
+            "owner": "falcosecurity",
+            "repo": "falco",
+            "stars": 9261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Step CA",
+          "description": "Private certificate authority and automated TLS management solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:40:47Z",
+            "owner": "smallstep",
+            "repo": "certificates",
+            "stars": 8748
+          }
+        }
+      ],
+      "title": "Secrets & Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cromite",
+          "description": "Privacy-focused Chromium fork with ad blocking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:50:22Z",
+            "owner": "uazo",
+            "repo": "cromite",
+            "stars": 8048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infinity for Reddit",
+          "description": "Open-source Reddit client for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:03:30Z",
+            "owner": "Docile-Alligator",
+            "repo": "Infinity-For-Reddit",
+            "stars": 5417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firefox for Android",
+          "description": "Open-source mobile browser developed by Mozilla.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-06-17T05:22:36Z",
+            "owner": "mozilla-mobile",
+            "repo": "firefox-android",
+            "stars": 1843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fulguris",
+          "description": "Lightweight privacy-focused Android browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T13:19:08Z",
+            "owner": "Slion",
+            "repo": "Fulguris",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mull",
+          "description": "Hardened Firefox fork for Android privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-12-10T22:23:22Z",
+            "owner": "Divested-Mobile",
+            "repo": "Mull-Fenix",
+            "stars": 596
+          }
+        }
+      ],
+      "title": "Browsers & Internet"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Termux",
+          "description": "Android terminal emulator and Linux environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-14T20:47:14Z",
+            "owner": "termux",
+            "repo": "termux-app",
+            "stars": 59136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Obtainium",
+          "description": "App updater directly from GitHub and other sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T02:55:19Z",
+            "owner": "ImranR98",
+            "repo": "Obtainium",
+            "stars": 18925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Files",
+          "description": "Material Design file manager for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-06T02:43:10Z",
+            "owner": "zhanghai",
+            "repo": "MaterialFiles",
+            "stars": 8734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SD Maid SE",
+          "description": "Android system cleaning and maintenance utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T13:28:42Z",
+            "owner": "d4rken-org",
+            "repo": "sdmaid-se",
+            "stars": 7258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo Store",
+          "description": "Modern F-Droid client for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-25T23:48:57Z",
+            "owner": "NeoApplications",
+            "repo": "Neo-Store",
+            "stars": 4897
+          }
+        }
+      ],
+      "title": "File Management & Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lawnchair",
+          "description": "Pixel-inspired customizable Android launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:06:11Z",
+            "owner": "LawnchairLauncher",
+            "repo": "lawnchair",
+            "stars": 13310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kvaesitso",
+          "description": "Launcher focused on search and productivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T02:23:14Z",
+            "owner": "MM2-0",
+            "repo": "Kvaesitso",
+            "stars": 4998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo Launcher",
+          "description": "Fork of Lawnchair with enhanced customization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T03:57:02Z",
+            "owner": "NeoApplications",
+            "repo": "Neo-Launcher",
+            "stars": 2092
+          }
+        }
+      ],
+      "title": "Launchers & Customization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Metrolist",
+          "description": "Feature-rich YouTube Music client for Android with offline playback, synced lyrics, and Material 3 design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T19:29:34Z",
+            "owner": "MetrolistGroup",
+            "repo": "Metrolist",
+            "stars": 11718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViMusic",
+          "description": "Lightweight open-source music streaming app for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-07-15T23:40:32Z",
+            "owner": "vfsfitvnm",
+            "repo": "ViMusic",
+            "stars": 9468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelPlayer",
+          "description": "Privacy-first Android music player built with Material 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T07:15:47Z",
+            "owner": "PixelPlayerHQ",
+            "repo": "PixelPlayer",
+            "stars": 6038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InnerTune",
+          "description": "Modern YouTube Music client for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-11-13T03:16:57Z",
+            "owner": "z-huang",
+            "repo": "InnerTune",
+            "stars": 6022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpotiFLAC-Mobile",
+          "description": "Open-source mobile companion for managing personal music libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-09T22:32:22Z",
+            "owner": "spotiflacapp",
+            "repo": "SpotiFLAC-Mobile",
+            "stars": 5823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retro Music",
+          "description": "Stylish Android music player with modern UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-04T16:50:57Z",
+            "owner": "RetroMusicPlayer",
+            "repo": "RetroMusicPlayer",
+            "stars": 5243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auxio",
+          "description": "Local Android music player focused on simplicity and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-04T04:07:24Z",
+            "owner": "OxygenCobalt",
+            "repo": "Auxio",
+            "stars": 4137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RiMusic",
+          "description": "Beautiful Android music player powered by YouTube Music.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-07-30T10:30:30Z",
+            "owner": "fast4x",
+            "repo": "RiMusic",
+            "stars": 3893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gramophone",
+          "description": "Material You inspired local music player for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T11:34:52Z",
+            "owner": "FoedusProgramme",
+            "repo": "Gramophone",
+            "stars": 2210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symphony",
+          "description": "Elegant and lightweight Flutter-based music player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-20T17:13:39Z",
+            "owner": "zyrouge",
+            "repo": "symphony",
+            "stars": 1688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vinyl Music Player",
+          "description": "Fork of Phonograph with classic Android music player experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-18T15:36:11Z",
+            "owner": "VinylMusicPlayer",
+            "repo": "VinylMusicPlayer",
+            "stars": 991
+          }
+        }
+      ],
+      "title": "Media & Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "K-9 Mail",
+          "description": "Open-source email client for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T18:08:58Z",
+            "owner": "thunderbird",
+            "repo": "thunderbird-android",
+            "stars": 13842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FairEmail",
+          "description": "Privacy-oriented email client with extensive customization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T05:13:37Z",
+            "owner": "M66B",
+            "repo": "FairEmail",
+            "stars": 4540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Element",
+          "description": "Matrix-based secure messaging application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T11:31:41Z",
+            "owner": "element-hq",
+            "repo": "element-android",
+            "stars": 3717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Molly",
+          "description": "Hardened Signal fork for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T00:24:29Z",
+            "owner": "mollyim",
+            "repo": "mollyim-android",
+            "stars": 3635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Session",
+          "description": "Privacy-focused encrypted messenger without phone numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T01:41:40Z",
+            "owner": "session-foundation",
+            "repo": "session-android",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Briar",
+          "description": "Peer-to-peer encrypted messaging app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-13T10:00:38Z",
+            "owner": "briar",
+            "repo": "briar",
+            "stars": 677
+          }
+        }
+      ],
+      "title": "Messaging & Communication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aegis",
+          "description": "Secure two-factor authentication app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-16T10:50:56Z",
+            "owner": "beemdevelopment",
+            "repo": "Aegis",
+            "stars": 12897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitwarden",
+          "description": "Open-source password manager for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T17:43:36Z",
+            "owner": "bitwarden",
+            "repo": "android",
+            "stars": 9212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeePassDX",
+          "description": "KeePass-compatible password manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T15:31:38Z",
+            "owner": "Kunzisoft",
+            "repo": "KeePassDX",
+            "stars": 7117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authenticator Pro",
+          "description": "Two-factor authentication app with backups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T09:07:22Z",
+            "owner": "stratumauth",
+            "repo": "app",
+            "stars": 4546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proton Pass",
+          "description": "Password manager developed by Proton.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-28T14:15:52Z",
+            "owner": "protonpass",
+            "repo": "android-pass",
+            "stars": 754
+          }
+        }
+      ],
+      "title": "Password Managers & Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "Note-taking and task management application with sync support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:20:59Z",
+            "owner": "laurent22",
+            "repo": "joplin",
+            "stars": 55925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logseq",
+          "description": "Knowledge management and outlining application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-13T02:08:33Z",
+            "owner": "logseq",
+            "repo": "logseq",
+            "stars": 44423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notesnook",
+          "description": "Privacy-focused encrypted note-taking app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:36:15Z",
+            "owner": "streetwriters",
+            "repo": "notesnook",
+            "stars": 14400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoteGen",
+          "description": "Local-first Markdown note-taking app with capture, editing, optional sync, and AI-assisted organization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:24:41Z",
+            "owner": "codexu",
+            "repo": "note-gen",
+            "stars": 12610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Standard Notes",
+          "description": "End-to-end encrypted notes application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:21:42Z",
+            "owner": "standardnotes",
+            "repo": "app",
+            "stars": 6581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markor",
+          "description": "Markdown editor and note-taking app for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T08:35:16Z",
+            "owner": "gsantner",
+            "repo": "markor",
+            "stars": 5972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tasks.org",
+          "description": "Open-source task management app for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T23:22:07Z",
+            "owner": "tasks",
+            "repo": "tasks",
+            "stars": 5476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quillpad",
+          "description": "Minimal Material You note-taking app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-27T04:56:19Z",
+            "owner": "quillpad",
+            "repo": "quillpad",
+            "stars": 1354
+          }
+        }
+      ],
+      "title": "Productivity & Notes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NewPipe",
+          "description": "Lightweight YouTube frontend for Android without Google dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T03:20:59Z",
+            "owner": "TeamNewPipe",
+            "repo": "NewPipe",
+            "stars": 39324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seal",
+          "description": "Video and audio downloader powered by yt-dlp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-25T15:49:47Z",
+            "owner": "JunkFood02",
+            "repo": "Seal",
+            "stars": 28146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mihon",
+          "description": "Open-source manga reader for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T14:49:25Z",
+            "owner": "mihonapp",
+            "repo": "mihon",
+            "stars": 22784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreTube",
+          "description": "Privacy-focused YouTube client using Piped.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T17:17:40Z",
+            "owner": "libre-tube",
+            "repo": "LibreTube",
+            "stars": 12447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aniyomi",
+          "description": "Anime streaming and manga reader forked from Mihon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T00:43:58Z",
+            "owner": "aniyomiorg",
+            "repo": "aniyomi",
+            "stars": 7591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jellyfin Android",
+          "description": "Android client for the Jellyfin media server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T02:32:31Z",
+            "owner": "jellyfin",
+            "repo": "jellyfin-android",
+            "stars": 2687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grayjay",
+          "description": "Unified media platform supporting multiple content sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T17:07:59Z",
+            "owner": "futo-org",
+            "repo": "grayjay-android",
+            "stars": 1781
+          }
+        }
+      ],
+      "title": "Video & Streaming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubescape",
+          "description": "Kubernetes security platform for risk analysis and compliance scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:33:32Z",
+            "owner": "kubescape",
+            "repo": "kubescape",
+            "stars": 11600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kube-bench",
+          "description": "CIS Kubernetes benchmark compliance checker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:35:30Z",
+            "owner": "aquasecurity",
+            "repo": "kube-bench",
+            "stars": 8139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kyverno",
+          "description": "Kubernetes-native policy engine for security, governance, and compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:43:18Z",
+            "owner": "kyverno",
+            "repo": "kyverno",
+            "stars": 8029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kube-hunter",
+          "description": "Kubernetes penetration testing and security auditing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-19T12:30:55Z",
+            "owner": "aquasecurity",
+            "repo": "kube-hunter",
+            "stars": 5077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dockle",
+          "description": "Container image linter focused on security best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T10:38:04Z",
+            "owner": "goodwithtech",
+            "repo": "dockle",
+            "stars": 3286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chainguard Images",
+          "description": "Minimal and hardened container images focused on supply chain security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-13T03:48:36Z",
+            "owner": "chainguard-images",
+            "repo": "images",
+            "stars": 689
+          }
+        }
+      ],
+      "title": "Container & Kubernetes Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Osquery",
+          "description": "Operating system instrumentation framework exposing system data through SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:37:58Z",
+            "owner": "osquery",
+            "repo": "osquery",
+            "stars": 23457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lynis",
+          "description": "Security auditing and hardening tool for Unix-based systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-05T12:12:12Z",
+            "owner": "CISOfy",
+            "repo": "lynis",
+            "stars": 16148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wazero",
+          "description": "Secure WebAssembly runtime for sandboxed application execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T13:19:01Z",
+            "owner": "wazero",
+            "repo": "wazero",
+            "stars": 6324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEDR",
+          "description": "Endpoint detection and response platform for monitoring and threat analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-23T23:36:21Z",
+            "owner": "ComodoSecurity",
+            "repo": "openedr",
+            "stars": 2708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chkrootkit",
+          "description": "Toolset for detecting rootkits on Unix systems.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-11-15T22:34:33Z",
+            "owner": "Magentron",
+            "repo": "chkrootkit",
+            "stars": 259
+          }
+        }
+      ],
+      "title": "Endpoint & Runtime Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wazuh",
+          "description": "Open-source XDR and SIEM platform for threat detection and compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:38:08Z",
+            "owner": "wazuh",
+            "repo": "wazuh",
+            "stars": 16516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrowdSec",
+          "description": "Collaborative IPS and threat intelligence platform protecting servers and applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T16:00:02Z",
+            "owner": "crowdsecurity",
+            "repo": "crowdsec",
+            "stars": 14502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeek",
+          "description": "Powerful network analysis framework for monitoring and security visibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:53:21Z",
+            "owner": "zeek",
+            "repo": "zeek",
+            "stars": 7872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suricata",
+          "description": "High-performance network IDS, IPS, and network security monitoring engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T13:39:39Z",
+            "owner": "OISF",
+            "repo": "suricata",
+            "stars": 6540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security Onion",
+          "description": "Linux distribution for intrusion detection, enterprise security monitoring, and log management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T21:11:32Z",
+            "owner": "Security-Onion-Solutions",
+            "repo": "securityonion",
+            "stars": 4799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snort",
+          "description": "Widely used open-source intrusion prevention and detection system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-23T20:33:58Z",
+            "owner": "snort3",
+            "repo": "snort3",
+            "stars": 3402
+          }
+        }
+      ],
+      "title": "Network Security & Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSnitch",
+          "description": "Application firewall and outbound connection monitor for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T23:34:20Z",
+            "owner": "evilsocket",
+            "repo": "opensnitch",
+            "stars": 13962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arkenfox user.js",
+          "description": "Hardened Firefox configuration focused on privacy and security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T07:48:28Z",
+            "owner": "arkenfox",
+            "repo": "user.js",
+            "stars": 12779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tor",
+          "description": "Anonymous overlay network for protecting privacy and resisting surveillance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-05T22:24:35Z",
+            "owner": "torproject",
+            "repo": "tor",
+            "stars": 4993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrapheneOS",
+          "description": "Privacy and security-focused Android-based mobile operating system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T01:18:07Z",
+            "owner": "GrapheneOS",
+            "repo": "platform_manifest",
+            "stars": 530
+          }
+        }
+      ],
+      "title": "Privacy & Anonymity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ghidra",
+          "description": "Software reverse engineering suite developed by the NSA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T17:01:50Z",
+            "owner": "NationalSecurityAgency",
+            "repo": "ghidra",
+            "stars": 72304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metasploit Framework",
+          "description": "Penetration testing framework for security auditing and exploit development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T14:23:44Z",
+            "owner": "rapid7",
+            "repo": "metasploit-framework",
+            "stars": 38795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlmap",
+          "description": "Automated SQL injection and database takeover tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:18:02Z",
+            "owner": "sqlmapproject",
+            "repo": "sqlmap",
+            "stars": 38170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP ZAP",
+          "description": "Open-source web application security scanner maintained by OWASP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T13:49:34Z",
+            "owner": "zaproxy",
+            "repo": "zaproxy",
+            "stars": 15585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amass",
+          "description": "Attack surface mapping and external asset discovery tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-19T05:16:40Z",
+            "owner": "owasp-amass",
+            "repo": "amass",
+            "stars": 14974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nmap",
+          "description": "Network discovery and security auditing utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:30:06Z",
+            "owner": "nmap",
+            "repo": "nmap",
+            "stars": 13344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wireshark",
+          "description": "Network protocol analyzer for troubleshooting and packet inspection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:30:06Z",
+            "owner": "wireshark",
+            "repo": "wireshark",
+            "stars": 9718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responder",
+          "description": "LLMNR, NBT-NS, and MDNS poisoner commonly used in internal network assessments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T14:28:34Z",
+            "owner": "lgandx",
+            "repo": "Responder",
+            "stars": 6539
+          }
+        }
+      ],
+      "title": "Reverse Engineering & Pentesting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HashiCorp Vault",
+          "description": "Secrets management and encryption platform for protecting sensitive infrastructure data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:15:09Z",
+            "owner": "hashicorp",
+            "repo": "vault",
+            "stars": 36115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "age",
+          "description": "Simple, modern, and secure file encryption tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-20T21:12:32Z",
+            "owner": "FiloSottile",
+            "repo": "age",
+            "stars": 23197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOPS",
+          "description": "Tool for encrypting and managing structured configuration files and secrets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:27:27Z",
+            "owner": "getsops",
+            "repo": "sops",
+            "stars": 22789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cryptomator",
+          "description": "Client-side encrypted cloud storage solution focused on privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-01T16:25:31Z",
+            "owner": "cryptomator",
+            "repo": "cryptomator",
+            "stars": 15872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sealed Secrets",
+          "description": "Kubernetes controller for managing encrypted secrets safely in Git repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T08:13:49Z",
+            "owner": "bitnami",
+            "repo": "sealed-secrets",
+            "stars": 9239
+          }
+        }
+      ],
+      "title": "Secrets Management & Encryption"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semgrep",
+          "description": "Static analysis tool for finding security issues in source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-13T00:15:14Z",
+            "owner": "semgrep",
+            "repo": "semgrep",
+            "stars": 16199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grype",
+          "description": "Vulnerability scanner for container images and filesystems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T16:48:29Z",
+            "owner": "anchore",
+            "repo": "grype",
+            "stars": 12723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clair",
+          "description": "Static analysis tool for identifying vulnerabilities in container images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T23:04:19Z",
+            "owner": "quay",
+            "repo": "clair",
+            "stars": 11046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP Dependency-Check",
+          "description": "Tool for detecting vulnerable dependencies in software projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:08:07Z",
+            "owner": "dependency-check",
+            "repo": "DependencyCheck",
+            "stars": 7661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dependency-Track",
+          "description": "Software supply chain security platform for SBOM analysis and vulnerability tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T14:08:38Z",
+            "owner": "DependencyTrack",
+            "repo": "dependency-track",
+            "stars": 4101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSCAP",
+          "description": "Security compliance and vulnerability scanning framework implementing SCAP standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2026-08-11T19:03:59Z",
+            "owner": "OpenSCAP",
+            "repo": "openscap",
+            "stars": 1793
+          }
+        }
+      ],
+      "title": "Vulnerability Scanning & Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Self-Hosted"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gitea",
+          "description": "Simple, lightweight, and self-hosted Git service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:36:55Z",
+            "owner": "go-gitea",
+            "repo": "gitea",
+            "stars": 57350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitLab CE",
+          "description": "Complete DevOps platform with source control and CI/CD features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T03:16:14Z",
+            "owner": "gitlabhq",
+            "repo": "gitlabhq",
+            "stars": 24534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onedev",
+          "description": "All-in-one Git server with CI/CD and issue tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:31:33Z",
+            "owner": "theonedev",
+            "repo": "onedev",
+            "stars": 15153
+          }
+        }
+      ],
+      "title": "Developer Platforms & Git Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pi-hole",
+          "description": "Network-wide ad blocker and DNS sinkhole for improving privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-04T11:14:35Z",
+            "owner": "pi-hole",
+            "repo": "pi-hole",
+            "stars": 60331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Headscale",
+          "description": "Open-source self-hosted coordination server compatible with Tailscale clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-30T10:20:13Z",
+            "owner": "juanfont",
+            "repo": "headscale",
+            "stars": 42809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdGuard Home",
+          "description": "Self-hosted DNS server with ad and tracker blocking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:39:08Z",
+            "owner": "AdguardTeam",
+            "repo": "AdGuardHome",
+            "stars": 36085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetBird",
+          "description": "WireGuard-based secure networking platform for private connectivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:30:48Z",
+            "owner": "netbirdio",
+            "repo": "netbird",
+            "stars": 28333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Technitium DNS Server",
+          "description": "Powerful open-source DNS server with modern protocol support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T15:02:17Z",
+            "owner": "TechnitiumSoftware",
+            "repo": "DnsServer",
+            "stars": 9504
+          }
+        }
+      ],
+      "title": "DNS, Networking & Privacy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coolify",
+          "description": "Open-source self-hostable alternative to Heroku, Netlify, and Vercel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T22:00:25Z",
+            "owner": "coollabsio",
+            "repo": "coolify",
+            "stars": 60480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CasaOS",
+          "description": "Simple and beginner-friendly home cloud operating system for self-hosted apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-06T08:54:04Z",
+            "owner": "IceWhaleTech",
+            "repo": "CasaOS",
+            "stars": 37047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dokploy",
+          "description": "Modern self-hosted deployment platform built for Docker and VPS environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:38:48Z",
+            "owner": "Dokploy",
+            "repo": "dokploy",
+            "stars": 36552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CapRover",
+          "description": "Lightweight self-hosted PaaS platform for deploying web applications with Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T20:46:17Z",
+            "owner": "caprover",
+            "repo": "caprover",
+            "stars": 15127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umbrel",
+          "description": "Personal server platform for running self-hosted applications and services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T19:09:10Z",
+            "owner": "getumbrel",
+            "repo": "umbrel",
+            "stars": 11757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmos Server",
+          "description": "Self-hosted portal for managing apps, reverse proxy, and authentication in one interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T11:37:45Z",
+            "owner": "azukaar",
+            "repo": "Cosmos-Server",
+            "stars": 6116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YunoHost",
+          "description": "Debian-based self-hosting platform focused on simplicity and privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T19:29:51Z",
+            "owner": "YunoHost",
+            "repo": "yunohost",
+            "stars": 2966
+          }
+        }
+      ],
+      "title": "Homelab & Server Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jellyfin",
+          "description": "Fully open-source media server for movies, TV shows, music, and live TV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T04:04:45Z",
+            "owner": "jellyfin",
+            "repo": "jellyfin",
+            "stars": 55720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Navidrome",
+          "description": "Lightweight self-hosted music streaming server compatible with Subsonic clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:02:16Z",
+            "owner": "navidrome",
+            "repo": "navidrome",
+            "stars": 22844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audiobookshelf",
+          "description": "Self-hosted audiobook and podcast server with modern apps and metadata support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T22:14:55Z",
+            "owner": "advplyr",
+            "repo": "audiobookshelf",
+            "stars": 13954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owncast",
+          "description": "Self-hosted live streaming server with chat and federation support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:33:36Z",
+            "owner": "owncast",
+            "repo": "owncast",
+            "stars": 11456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tube Archivist",
+          "description": "Self-hosted YouTube media server and video archiving platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T13:47:58Z",
+            "owner": "tubearchivist",
+            "repo": "tubearchivist",
+            "stars": 8361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azuracast",
+          "description": "Web radio management suite for self-hosted internet radio stations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T19:44:42Z",
+            "owner": "AzuraCast",
+            "repo": "AzuraCast",
+            "stars": 3983
+          }
+        }
+      ],
+      "title": "Media Servers & Streaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uptime Kuma",
+          "description": "Self-hosted uptime monitoring tool with status pages and notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:14:12Z",
+            "owner": "louislam",
+            "repo": "uptime-kuma",
+            "stars": 90127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netdata",
+          "description": "Real-time infrastructure monitoring and troubleshooting platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:21:33Z",
+            "owner": "netdata",
+            "repo": "netdata",
+            "stars": 80154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beszel",
+          "description": "Lightweight server monitoring platform with Docker support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:10:37Z",
+            "owner": "henrygd",
+            "repo": "beszel",
+            "stars": 24217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checkmk",
+          "description": "Comprehensive IT monitoring solution for servers, containers, and networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:59:36Z",
+            "owner": "Checkmk",
+            "repo": "checkmk",
+            "stars": 2341
+          }
+        }
+      ],
+      "title": "Monitoring & Uptime"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vaultwarden",
+          "description": "Lightweight Bitwarden-compatible password manager server written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T12:09:44Z",
+            "owner": "dani-garcia",
+            "repo": "vaultwarden",
+            "stars": 65335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authentik",
+          "description": "Self-hosted identity provider and authentication platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:14:19Z",
+            "owner": "goauthentik",
+            "repo": "authentik",
+            "stars": 24724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLDAP",
+          "description": "Lightweight LDAP server for small teams and homelab setups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T20:24:15Z",
+            "owner": "lldap",
+            "repo": "lldap",
+            "stars": 6432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passbolt",
+          "description": "Open-source password manager designed for team collaboration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-06T13:04:30Z",
+            "owner": "passbolt",
+            "repo": "passbolt_api",
+            "stars": 6069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kanidm",
+          "description": "Modern identity management server focused on security and simplicity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:41:27Z",
+            "owner": "kanidm",
+            "repo": "kanidm",
+            "stars": 5235
+          }
+        }
+      ],
+      "title": "Password Managers & Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Immich",
+          "description": "High-performance self-hosted photo and video backup solution inspired by Google Photos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:26:13Z",
+            "owner": "immich-app",
+            "repo": "immich",
+            "stars": 110329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syncthing",
+          "description": "Decentralized continuous file synchronization application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:08:02Z",
+            "owner": "syncthing",
+            "repo": "syncthing",
+            "stars": 87623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhotoPrism",
+          "description": "AI-powered self-hosted photo management application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:16:17Z",
+            "owner": "photoprism",
+            "repo": "photoprism",
+            "stars": 40065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File Browser",
+          "description": "Web-based file manager for managing files on remote servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T10:06:58Z",
+            "owner": "filebrowser",
+            "repo": "filebrowser",
+            "stars": 35842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piwigo",
+          "description": "Open-source photo gallery platform with plugin support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T15:27:10Z",
+            "owner": "Piwigo",
+            "repo": "Piwigo",
+            "stars": 3839
+          }
+        }
+      ],
+      "title": "Photos & File Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hoarder",
+          "description": "Self-hosted bookmark manager with AI-assisted organization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:08:25Z",
+            "owner": "karakeep-app",
+            "repo": "karakeep",
+            "stars": 28309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karakeep",
+          "description": "Modern self-hosted bookmarking and knowledge management platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:08:25Z",
+            "owner": "karakeep-app",
+            "repo": "karakeep",
+            "stars": 28309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreshRSS",
+          "description": "Lightweight and self-hosted RSS feed aggregator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T19:53:52Z",
+            "owner": "FreshRSS",
+            "repo": "FreshRSS",
+            "stars": 15761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wallabag",
+          "description": "Self-hosted read-it-later application for saving web articles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T11:15:55Z",
+            "owner": "wallabag",
+            "repo": "wallabag",
+            "stars": 12894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miniflux",
+          "description": "Minimalist RSS reader focused on performance and simplicity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:32:27Z",
+            "owner": "miniflux",
+            "repo": "v2",
+            "stars": 9574
+          }
+        }
+      ],
+      "title": "RSS, Read-It-Later & Knowledge"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Software / SaaS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Umami",
+          "description": "Privacy-focused web analytics alternative to Google Analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:55:08Z",
+            "owner": "umami-software",
+            "repo": "umami",
+            "stars": 38175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Signoz",
+          "description": "Open-source observability platform for metrics, traces, and logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:13:55Z",
+            "owner": "SigNoz",
+            "repo": "signoz",
+            "stars": 31830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plausible Analytics",
+          "description": "Lightweight and privacy-friendly website analytics platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-12T16:28:17Z",
+            "owner": "plausible",
+            "repo": "analytics",
+            "stars": 28480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenReplay",
+          "description": "Session replay and product analytics platform for debugging user issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:29:11Z",
+            "owner": "openreplay",
+            "repo": "openreplay",
+            "stars": 12490
+          }
+        }
+      ],
+      "title": "Analytics & Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "n8n",
+          "description": "Workflow automation platform with self-hosting and extensible integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:57:05Z",
+            "owner": "n8n-io",
+            "repo": "n8n",
+            "stars": 200412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appsmith",
+          "description": "Open-source framework for creating internal applications rapidly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:29:08Z",
+            "owner": "appsmithorg",
+            "repo": "appsmith",
+            "stars": 40657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolJet",
+          "description": "Low-code platform for building internal tools and admin panels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:08:38Z",
+            "owner": "ToolJet",
+            "repo": "ToolJet",
+            "stars": 38596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Budibase",
+          "description": "Low-code platform for internal tools, forms, and operational dashboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:10:49Z",
+            "owner": "Budibase",
+            "repo": "budibase",
+            "stars": 28199
+          }
+        }
+      ],
+      "title": "Automation & Internal Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chatwoot",
+          "description": "Customer engagement and support platform with live chat and omnichannel inboxes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T04:22:29Z",
+            "owner": "chatwoot",
+            "repo": "chatwoot",
+            "stars": 35772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Formbricks",
+          "description": "Open-source experience management and product feedback platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:02:48Z",
+            "owner": "formbricks",
+            "repo": "formbricks",
+            "stars": 12765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typebot",
+          "description": "Conversational form builder for creating interactive chat-style workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T10:59:07Z",
+            "owner": "baptisteArno",
+            "repo": "typebot.io",
+            "stars": 10254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papercups",
+          "description": "Open-source live chat and customer messaging platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2024-02-15T05:21:47Z",
+            "owner": "papercups-io",
+            "repo": "papercups",
+            "stars": 6100
+          }
+        }
+      ],
+      "title": "Communication & Support"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Outline",
+          "description": "Collaborative team knowledge base and documentation platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:36:13Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wiki.js",
+          "description": "Powerful and extensible open-source wiki platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-13T02:59:49Z",
+            "owner": "requarks",
+            "repo": "wiki",
+            "stars": 28750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docs",
+          "description": "Collaborative document editing platform focused on privacy and self-hosting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:45:35Z",
+            "owner": "suitenumerique",
+            "repo": "docs",
+            "stars": 16720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Documenso",
+          "description": "Open-source document signing platform as an alternative to DocuSign.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:13:53Z",
+            "owner": "documenso",
+            "repo": "documenso",
+            "stars": 14372
+          }
+        }
+      ],
+      "title": "Documentation & Knowledge Bases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nextcloud",
+          "description": "Self-hosted productivity cloud with file sync, collaboration, and communication tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T03:00:41Z",
+            "owner": "nextcloud",
+            "repo": "server",
+            "stars": 36409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudreve",
+          "description": "Self-hosted cloud storage system supporting multiple storage providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T01:59:50Z",
+            "owner": "cloudreve",
+            "repo": "cloudreve",
+            "stars": 28535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seafile",
+          "description": "High-performance open-source file hosting and synchronization platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T02:47:29Z",
+            "owner": "haiwen",
+            "repo": "seafile",
+            "stars": 15099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Filestash",
+          "description": "Modern web client for managing files across multiple storage backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T03:58:22Z",
+            "owner": "mickael-kerjean",
+            "repo": "filestash",
+            "stars": 14466
+          }
+        }
+      ],
+      "title": "File Storage & Cloud"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AppFlowy",
+          "description": "Open-source workspace and knowledge management platform positioned as an alternative to Notion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T13:01:19Z",
+            "owner": "AppFlowy-IO",
+            "repo": "AppFlowy",
+            "stars": 75291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AFFiNE",
+          "description": "All-in-one collaborative workspace combining docs, whiteboards, and databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:05:23Z",
+            "owner": "toeverything",
+            "repo": "AFFiNE",
+            "stars": 71496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plane",
+          "description": "Open-source project management and issue tracking platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T10:42:04Z",
+            "owner": "makeplane",
+            "repo": "plane",
+            "stars": 55892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twenty",
+          "description": "Modern open-source CRM platform focused on extensibility and ownership.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:52:11Z",
+            "owner": "twentyhq",
+            "repo": "twenty",
+            "stars": 54838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Focalboard",
+          "description": "Self-hosted project and task management tool inspired by Trello and Notion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T16:05:00Z",
+            "owner": "mattermost-community",
+            "repo": "focalboard",
+            "stars": 26395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Erxes",
+          "description": "Open-source growth marketing, sales, and customer engagement platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:24:57Z",
+            "owner": "erxes",
+            "repo": "erxes",
+            "stars": 4061
+          }
+        }
+      ],
+      "title": "Productivity & Collaboration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angular Material",
+          "description": "A Material Design component library for Angular maintained by Google.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:23:35Z",
+            "owner": "angular",
+            "repo": "components",
+            "stars": 25036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrimeNG",
+          "description": "A rich Angular UI component library with high performance and extensive customization options.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T23:06:14Z",
+            "owner": "primefaces",
+            "repo": "primeng",
+            "stars": 12503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taiga UI",
+          "description": "A powerful open source Angular UI kit with a large set of components and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:49:28Z",
+            "owner": "taiga-family",
+            "repo": "taiga-ui",
+            "stars": 4036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TailAdmin Angular",
+          "description": "An open-source Angular admin dashboard template built with Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-23T03:43:29Z",
+            "owner": "TailAdmin",
+            "repo": "free-angular-tailwind-dashboard",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "Angular UI libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "The most widely used open source code editor with a massive extension ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:21:57Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 188641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neovim",
+          "description": "A highly popular, extensible Vim-based editor focused on performance and modern workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T03:52:28Z",
+            "owner": "neovim",
+            "repo": "neovim",
+            "stars": 101772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zed",
+          "description": "A high-performance collaborative editor gaining rapid adoption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:19:16Z",
+            "owner": "zed-industries",
+            "repo": "zed",
+            "stars": 88528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helix",
+          "description": "A fast-growing modal editor with built-in LSP support and modern defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:23:12Z",
+            "owner": "helix-editor",
+            "repo": "helix",
+            "stars": 45809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCodium",
+          "description": "A fully open source distribution of VS Code without proprietary components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T12:43:33Z",
+            "owner": "VSCodium",
+            "repo": "vscodium",
+            "stars": 32799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eclipse Theia",
+          "description": "A flexible open source IDE platform used in cloud and desktop environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:33:14Z",
+            "owner": "eclipse-theia",
+            "repo": "theia",
+            "stars": 21629
+          }
+        }
+      ],
+      "title": "Code Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Excalidraw",
+          "description": "Virtual whiteboard for sketching hand-drawn style diagrams with real-time collaboration and infinite canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:35:23Z",
+            "owner": "excalidraw",
+            "repo": "excalidraw",
+            "stars": 129465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Design",
+          "description": "Local-first AI design tool with 19 skills and 71 brand-grade design systems for generating web, mobile, and slide artifacts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:20:15Z",
+            "owner": "nexu-io",
+            "repo": "open-design",
+            "stars": 85389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-pencil",
+          "description": "AI-native Figma-compatible design editor with headless CLI, MCP server, and design-to-code export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:20:40Z",
+            "owner": "open-pencil",
+            "repo": "open-pencil",
+            "stars": 7729
+          }
+        }
+      ],
+      "title": "Design Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Feather Icons",
+          "description": "Minimal and clean open-source icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-11T02:18:59Z",
+            "owner": "feathericons",
+            "repo": "feather",
+            "stars": 25975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Icons",
+          "description": "Brand and logo icons in SVG format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T01:27:31Z",
+            "owner": "simple-icons",
+            "repo": "simple-icons",
+            "stars": 25610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroicons",
+          "description": "Official Tailwind CSS icon set (outline & solid).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T13:51:18Z",
+            "owner": "tailwindlabs",
+            "repo": "heroicons",
+            "stars": 23738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabler Icons",
+          "description": "Large, consistent and actively maintained icon set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T22:53:46Z",
+            "owner": "tabler",
+            "repo": "tabler-icons",
+            "stars": 21356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionicons",
+          "description": "Icon pack for Ionic and general use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T20:43:44Z",
+            "owner": "ionic-team",
+            "repo": "ionicons",
+            "stars": 18140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Icons",
+          "description": "Popular icon packs as React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:38:49Z",
+            "owner": "react-icons",
+            "repo": "react-icons",
+            "stars": 12616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css.gg",
+          "description": "Open-source CSS and SVG icon system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-26T22:56:02Z",
+            "owner": "astrit",
+            "repo": "css.gg",
+            "stars": 10033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remix Icon",
+          "description": "System-style open-source icon library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2026-04-28T09:25:21Z",
+            "owner": "Remix-Design",
+            "repo": "RemixIcon",
+            "stars": 8277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrap Icons",
+          "description": "Official Bootstrap icon library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T13:25:21Z",
+            "owner": "twbs",
+            "repo": "icons",
+            "stars": 8096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lucide Animated",
+          "description": "Beautifully crafted collection of animated React icons built with Motion and Lucide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T11:45:30Z",
+            "owner": "pqoqubbw",
+            "repo": "icons",
+            "stars": 7930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boxicons",
+          "description": "Simple and flexible icon library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-16T01:36:14Z",
+            "owner": "box-icons",
+            "repo": "boxicons",
+            "stars": 3181
+          }
+        }
+      ],
+      "title": "Icons"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ant Design",
+          "description": "An enterprise-class design system with robust and consistent React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:51:45Z",
+            "owner": "ant-design",
+            "repo": "ant-design",
+            "stars": 99060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material-UI (MUI)",
+          "description": "A React component library based on Material Design, highly customizable and widely adopted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T15:30:27Z",
+            "owner": "mui",
+            "repo": "material-ui",
+            "stars": 98754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chakra UI",
+          "description": "A modular library focused on accessibility and great developer experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:54:40Z",
+            "owner": "chakra-ui",
+            "repo": "chakra-ui",
+            "stars": 40573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Bootstrap",
+          "description": "Bootstrap components rebuilt for React without jQuery dependency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:45:43Z",
+            "owner": "react-bootstrap",
+            "repo": "react-bootstrap",
+            "stars": 22610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NativeBase",
+          "description": "A utility-first component system for building consistent UIs across mobile and web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-31T17:46:33Z",
+            "owner": "GeekyAnts",
+            "repo": "NativeBase",
+            "stars": 20386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic UI React",
+          "description": "The official React integration for Semantic UI with declarative components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-22T09:09:59Z",
+            "owner": "Semantic-Org",
+            "repo": "Semantic-UI-React",
+            "stars": 13215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrimeReact",
+          "description": "A comprehensive suite of rich, flexible, and design-agnostic React UI components.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2026-06-28T23:09:38Z",
+            "owner": "primefaces",
+            "repo": "primereact",
+            "stars": 8319
+          }
+        }
+      ],
+      "title": "React UI libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shadcn/ui",
+          "description": "Copy-paste open-source UI components for React built on Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:22:04Z",
+            "owner": "shadcn-ui",
+            "repo": "ui",
+            "stars": 121207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Headless UI",
+          "description": "Fully accessible unstyled UI primitives designed for Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-13T16:12:31Z",
+            "owner": "tailwindlabs",
+            "repo": "headlessui",
+            "stars": 28709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uiverse",
+          "description": "Community-driven open-source UI elements built with HTML and CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-09-02T14:32:05Z",
+            "owner": "uiverse-io",
+            "repo": "galaxy",
+            "stars": 12049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowbite",
+          "description": "Open-source UI component library based on Tailwind CSS with interactive elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-27T08:36:12Z",
+            "owner": "themesberg",
+            "repo": "flowbite",
+            "stars": 9320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangUI",
+          "description": "Open-source Tailwind CSS components for AI and GPT-style interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-10T03:00:23Z",
+            "owner": "CommandCodeAI",
+            "repo": "langui",
+            "stars": 3147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "8bitcn",
+          "description": "Retro 8-bit styled open-source UI component library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T12:42:00Z",
+            "owner": "TheOrcDev",
+            "repo": "8bitcn-ui",
+            "stars": 1986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dotmatrix",
+          "description": "Reusable dotmatrix-style loading animation components installable via shadcn registry or manual copy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T09:54:46Z",
+            "owner": "zzzzshawn",
+            "repo": "matrix",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loading-ui",
+          "description": "Beautiful open-source loading states, skeletons, and animated placeholders built for modern React apps with Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T19:54:26Z",
+            "owner": "turbostarter",
+            "repo": "loading-ui",
+            "stars": 463
+          }
+        }
+      ],
+      "title": "UI Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vuetify",
+          "description": "Material Design component framework for Vue with a large ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:42:26Z",
+            "owner": "vuetifyjs",
+            "repo": "vuetify",
+            "stars": 41027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasar",
+          "description": "Full-featured Vue framework for building SPAs, SSR, mobile and desktop apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:50:34Z",
+            "owner": "quasarframework",
+            "repo": "quasar",
+            "stars": 27209
+          }
+        }
+      ],
+      "title": "Vue UI Libraries"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:36.094Z",
+    "original_repository": "hadez8877/awesome-opensource",
+    "original_repository_sha": "49ce723a64cbfebd9da843e81239bcf2f9c0df29",
+    "enhanced_repository": "enhansome/enhansome-opensource",
+    "enhanced_repository_description": null,
+    "title": "Awesome opensource with stars"
+  }
+}
